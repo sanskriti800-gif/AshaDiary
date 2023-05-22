@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">आशा डाइरी</string>
+    <string name="home">होम</string>
+    <string name="info">"सूचना केंद्र "</string>
+    <string name="profile">"अकाउंट "</string>
+    <string name="SmallChildPage">"० - २ उम्र "</string>
+    <string name="BigChildPage">"२ - ५ उम्र  "</string>
+    <string name="PregnantWomanPage">"गर्भवती महिला "</string>
+    <string name="Name">"नाम : "</string>
+    <string name="Mother_Name">माता :</string>
+    <string name="Father_Name">"पिता : "</string>
+    <string name="DOB">"जन्मतिथि : "</string>
+    <string name="Blood_Group">"ब्लड ग्रुप  : "</string>
+    <string name="prompt_email">"ईमेल : "</string>
+    <string name="prompt_password">"पासवर्ड : "</string>
+</resources>
